@@ -1,0 +1,4 @@
+Bias squared,Variance,Mean test accuracy (%),Std test accuracy (percentage points)
+0.437,0.6495,45.6667,6.1565
+0.5311,0.0335,73.0,4.3624
+0.8839,0.0166,35.5417,7.0991

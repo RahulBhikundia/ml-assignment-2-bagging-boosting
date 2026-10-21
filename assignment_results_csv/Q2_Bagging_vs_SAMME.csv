@@ -1,0 +1,7 @@
+Model,Learners requested,Learners trained,Train accuracy,Validation accuracy,Clean test accuracy,Training time (s)
+Bagging,25,25,1.0,0.85,0.7875,30.722221
+SAMME,25,25,0.5375,0.25,0.2875,8.708022
+Bagging,50,50,1.0,0.9,0.8125,58.365694
+SAMME,50,50,0.570833,0.2125,0.2,17.648358
+Bagging,100,100,1.0,0.8875,0.8375,114.827799
+SAMME,100,100,0.820833,0.3625,0.375,34.995411

@@ -1,0 +1,7 @@
+Sample,True Class,Prediction,Correct,Initial Weight,Updated Weight
+1,A,A,True,0.166667,0.083333
+2,A,A,True,0.166667,0.083333
+3,B,B,True,0.166667,0.083333
+4,B,C,False,0.166667,0.333333
+5,C,C,True,0.166667,0.083333
+6,C,B,False,0.166667,0.333333

@@ -1,0 +1,4 @@
+Depth,Single-tree variance,Bagged variance,Variance reduction (%),Single-tree accuracy (%),Bagged accuracy (%),Accuracy improvement (pp)
+2.0,0.0446,0.0112,74.7964,5.7917,15.8333,10.0417
+8.0,0.1332,0.0163,87.7952,16.2917,48.125,31.8333
+,0.6495,0.0248,96.1785,45.6667,74.625,28.9583
