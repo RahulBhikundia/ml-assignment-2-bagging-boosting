@@ -79,8 +79,8 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_DIRECTORY>
+git clone https://github.com/RahulBhikundia/ml-assignment-2-bagging-boosting.git
+cd ml-assignment-2-bagging-boosting
 ```
 
 Launch the notebook:
